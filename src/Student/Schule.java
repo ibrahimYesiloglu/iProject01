@@ -7,12 +7,14 @@ public class Schule {
                 "was gehts " +
                 ":)");
 
-        System.out.println("2 Hallo");
+        System.out.println("2    Hallo     ");
 
 
         System.out.println("dritte aufgabe...");
 
-
+        for (int i = 0; i < 5; i++) {
+            System.out.println("bussuru kod");
+        }
 
     }
 }
